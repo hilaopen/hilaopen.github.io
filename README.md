@@ -1,5 +1,4 @@
-Hila Open Oy
-============
+![Hila Open Oy](https://raw.githubusercontent.com/hilaopen/hilaopen.github.io/master/images/hila_open-logo-RGB-blue_&_white-1000px%20copy.jpg)
 
 [Antti Poikola](http://linkedin.com/apoikola)<br/>
 +358 44 337 5439<br/>
